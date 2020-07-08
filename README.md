@@ -1,2 +1,2 @@
 # datasciencecoursera
-First Data Science Specialization Proyect.
+First Data Science Specialization Project.
